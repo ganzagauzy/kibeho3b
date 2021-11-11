@@ -3,7 +3,7 @@
     <adminNav />
     <div class="container">
       <div class="flex-head">
-        <h4>Events</h4>
+        <h4>Events 4</h4>
         <v-btn class="bg-primary text-light py-1 px-3 border-radius">+Event</v-btn>
       </div>
       <div>
